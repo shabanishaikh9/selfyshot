@@ -1,2 +1,2 @@
 # selfyshot
-selfyshot for github
+this is readme.md file
